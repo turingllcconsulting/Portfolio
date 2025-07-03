@@ -1,3 +1,3 @@
-# Portfolio
+# Exploratory Data Analysis of Finished Materials in a Poultry Rendering Environment
 
-Portfolio of projects completed in MSDS program at Bellevue University.
+This is an exploration of data in the finished products (poultry meal) in poultry rendering facilities.
