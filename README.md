@@ -1,3 +1,3 @@
-# Portfolio
+# Analysis of International Economic and Educational Development
 
-Portfolio of projects completed in MSDS program at Bellevue University.
+This is an analysis of international economic educational development from several sources to find correlations between advances of different countries.
